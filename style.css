@@ -1,8 +1,7 @@
-.texto{
+.text{
     width:200px;
     background-color: #ccc;
     padding:20px;
-    border: 2px solid #ff0000;
 }
 
 .scrollButton{
@@ -15,4 +14,5 @@
     bottom: 20px;
     z-index:999;
     cursor: pointer;
+    display: none;
 }
